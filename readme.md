@@ -32,9 +32,15 @@
 ## 🧠 Want More?
 
 This is part of the [Pankstr](https://pankstr.com) automation vault.  
-We help solo founders and side-hustlers automate their way out of corporate life.  
+We help solo founders, SMBs and side-hustlers automate their way out of corporate life.  
 Without selling their souls. Or their calendars.
 
----
+--
+📄 License
+
+This repository is shared for educational and preview purposes.
+
+All rights reserved unless purchased.  
+- The base repo is covered by **Personal Use Only** license.
 
 > “Because following up manually is for people who enjoy burnout.”
