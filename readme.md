@@ -12,8 +12,8 @@
 
 ## 🧰 Quick Start
 
-1. Duplicate the Notion template → `/Notion Template/NotionLink.txt`
-2. Import Make scenarios → `/Make Scenarios/`
+1. Duplicate the Notion template → `/NotionTemplates/NotionTemplateLink.txt`
+2. Import Make scenarios → `/MakeScenarios/`
 3. Connect your Gumroad webhook → Make trigger
 4. Customize your email text + branding
 5. Send yourself a fake sale and bask in the automation
@@ -25,7 +25,7 @@
 - [Make](https://make.com)
 - [Notion](https://notion.so)
 - Gumroad (you know this)
-- Sarcasm, mostly
+- Sarcasm
 
 ---
 
